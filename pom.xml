@@ -4,7 +4,7 @@
 	<groupId>api</groupId>
 	<artifactId>api</artifactId>
 	   <packaging>war</packaging> 
-	<build>  <finalName>bird</finalName> . . .</build>
+	<build>  <finalName>bird</finalName> </build>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
 	<packaging>war</packaging>
